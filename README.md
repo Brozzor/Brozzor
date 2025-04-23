@@ -26,7 +26,7 @@
   <summary>🎨 Front-End</summary>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,vue,react,nuxtjs&perline=4" />
+    <img src="https://skillicons.dev/icons?i=angular,vue,react,nuxtjs,nextjs&perline=4" />
   </a>
 </details>
 
@@ -34,7 +34,7 @@
   <summary>⚙️ Back-End</summary>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,spring,php&perline=4" />
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,php,nestjs,express&perline=4" />
   </a>
 </details>
 
@@ -42,7 +42,7 @@
   <summary>💾 Bases de données</summary>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&perline=4" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis&perline=4" />
   </a>
 </details>
 
